@@ -1,0 +1,531 @@
+{
+	"__comment": "Designed by CreatorLabs with Cubik Studio - https://cubik.studio - Download 3D CreatorCraft at https://www.planetminecraft.com/texture_pack/3d-creatorcraft/",
+	"parent": "item/parents/music_discs",
+	"textures": {
+    "middle": "creatorlabs/colors_generic/black"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "middle",
+			"from": [ 6, 6.5, 7 ],
+			"to": [ 10, 8.5, 9 ],
+			"faces": {
+				"down": { "uv": [ 6, 7, 10, 9 ], "texture": "#middle" },
+				"up": { "uv": [ 6, 7, 10, 9 ], "texture": "#middle" },
+				"north": { "uv": [ 6, 7.5, 10, 9.5 ], "texture": "#middle" },
+				"south": { "uv": [ 6, 7.5, 10, 9.5 ], "texture": "#middle" },
+				"west": { "uv": [ 7, 7.5, 9, 9.5 ], "texture": "#middle" },
+				"east": { "uv": [ 7, 7.5, 9, 9.5 ], "texture": "#middle" }
+			}
+		},
+		{
+			"__comment": "middle1",
+			"from": [ 7, 6.5, 6 ],
+			"to": [ 9, 8.5, 7 ],
+			"faces": {
+				"down": { "uv": [ 7, 9, 9, 10 ], "texture": "#middle" },
+				"up": { "uv": [ 7, 6, 9, 7 ], "texture": "#middle" },
+				"north": { "uv": [ 7, 7.5, 9, 9.5 ], "texture": "#middle" },
+				"west": { "uv": [ 6, 7.5, 7, 9.5 ], "texture": "#middle" },
+				"east": { "uv": [ 9, 7.5, 10, 9.5 ], "texture": "#middle" }
+			}
+		},
+		{
+			"__comment": "middle2",
+			"from": [ 7, 6.5, 9 ],
+			"to": [ 9, 8.5, 10 ],
+			"faces": {
+				"down": { "uv": [ 7, 6, 9, 7 ], "texture": "#middle" },
+				"up": { "uv": [ 7, 9, 9, 10 ], "texture": "#middle" },
+				"south": { "uv": [ 7, 7.5, 9, 9.5 ], "texture": "#middle" },
+				"west": { "uv": [ 9, 7.5, 10, 9.5 ], "texture": "#middle" },
+				"east": { "uv": [ 6, 7.5, 7, 9.5 ], "texture": "#middle" }
+			}
+		},
+		{
+			"__comment": "black",
+			"from": [ 7.5, 6, 7.5 ],
+			"to": [ 8.5, 9, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 7.5, 7.5, 8.5, 8.5 ], "texture": "#black" },
+				"up": { "uv": [ 7.5, 7.5, 8.5, 8.5 ], "texture": "#black" },
+				"north": { "uv": [ 7.5, 7, 8.5, 10 ], "texture": "#black" },
+				"south": { "uv": [ 7.5, 7, 8.5, 10 ], "texture": "#black" },
+				"west": { "uv": [ 7.5, 7, 8.5, 10 ], "texture": "#black" },
+				"east": { "uv": [ 7.5, 7, 8.5, 10 ], "texture": "#black" }
+			}
+		},
+		{
+			"__comment": "music_disc",
+			"from": [ 0, 7, 6 ],
+			"to": [ 7, 8, 7 ],
+			"faces": {
+				"down": { "uv": [ 0, 9, 7, 10 ], "texture": "#disc" },
+				"up": { "uv": [ 0, 6, 7, 7 ], "texture": "#disc" },
+				"north": { "uv": [ 9, 8, 16, 9 ], "texture": "#disc" },
+				"south": { "uv": [ 0, 8, 7, 9 ], "texture": "#disc" },
+				"west": { "uv": [ 6, 8, 7, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc1",
+			"from": [ 0, 7, 7 ],
+			"to": [ 6, 8, 9 ],
+			"faces": {
+				"down": { "uv": [ 0, 7, 6, 9 ], "texture": "#disc" },
+				"up": { "uv": [ 0, 7, 6, 9 ], "texture": "#disc" },
+				"south": { "uv": [ 0, 8, 6, 9 ], "texture": "#disc" },
+				"west": { "uv": [ 7, 8, 9, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc2",
+			"from": [ 0, 7, 9 ],
+			"to": [ 3, 8, 10 ],
+			"faces": {
+				"down": { "uv": [ 0, 6, 3, 7 ], "texture": "#disc" },
+				"up": { "uv": [ 0, 9, 3, 10 ], "texture": "#disc" },
+				"south": { "uv": [ 0, 8, 3, 9 ], "texture": "#disc" },
+				"west": { "uv": [ 9, 8, 10, 9 ], "texture": "#disc" },
+				"east": { "uv": [ 6, 8, 7, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc3",
+			"from": [ 1, 7, 5 ],
+			"to": [ 2, 8, 6 ],
+			"faces": {
+				"down": { "uv": [ 1, 10, 2, 11 ], "texture": "#disc" },
+				"up": { "uv": [ 1, 5, 2, 6 ], "texture": "#disc" },
+				"north": { "uv": [ 14, 8, 15, 9 ], "texture": "#disc" },
+				"west": { "uv": [ 5, 8, 6, 9 ], "texture": "#disc" },
+				"east": { "uv": [ 10, 8, 11, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc4",
+			"from": [ 2, 7, 3 ],
+			"to": [ 6, 8, 4 ],
+			"faces": {
+				"down": { "uv": [ 2, 12, 6, 13 ], "texture": "#disc" },
+				"up": { "uv": [ 2, 3, 6, 4 ], "texture": "#disc" },
+				"north": { "uv": [ 10, 8, 14, 9 ], "texture": "#disc" },
+				"south": { "uv": [ 2, 8, 6, 9 ], "texture": "#disc" },
+				"west": { "uv": [ 3, 8, 4, 9 ], "texture": "#disc" },
+				"east": { "uv": [ 12, 8, 13, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc5",
+			"from": [ 2, 7, 11 ],
+			"to": [ 5, 8, 13 ],
+			"faces": {
+				"down": { "uv": [ 2, 3, 5, 5 ], "texture": "#disc" },
+				"up": { "uv": [ 2, 11, 5, 13 ], "texture": "#disc" },
+				"north": { "uv": [ 11, 8, 14, 9 ], "texture": "#disc" },
+				"south": { "uv": [ 2, 8, 5, 9 ], "texture": "#disc" },
+				"west": { "uv": [ 11, 8, 13, 9 ], "texture": "#disc" },
+				"east": { "uv": [ 3, 8, 5, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc6",
+			"from": [ 3, 7, 5 ],
+			"to": [ 5, 8, 6 ],
+			"faces": {
+				"down": { "uv": [ 3, 10, 5, 11 ], "texture": "#disc" },
+				"up": { "uv": [ 3, 5, 5, 6 ], "texture": "#disc" },
+				"north": { "uv": [ 11, 8, 13, 9 ], "texture": "#disc" },
+				"west": { "uv": [ 5, 8, 6, 9 ], "texture": "#disc" },
+				"east": { "uv": [ 10, 8, 11, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc7",
+			"from": [ 3, 7, 10 ],
+			"to": [ 5, 8, 11 ],
+			"faces": {
+				"down": { "uv": [ 3, 5, 5, 6 ], "texture": "#disc" },
+				"up": { "uv": [ 3, 10, 5, 11 ], "texture": "#disc" },
+				"north": { "uv": [ 11, 8, 13, 9 ], "texture": "#disc" },
+				"west": { "uv": [ 10, 8, 11, 9 ], "texture": "#disc" },
+				"east": { "uv": [ 5, 8, 6, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc8",
+			"from": [ 3, 7, 13 ],
+			"to": [ 4, 8, 14 ],
+			"faces": {
+				"down": { "uv": [ 3, 2, 4, 3 ], "texture": "#disc" },
+				"up": { "uv": [ 3, 13, 4, 14 ], "texture": "#disc" },
+				"south": { "uv": [ 3, 8, 4, 9 ], "texture": "#disc" },
+				"west": { "uv": [ 13, 8, 14, 9 ], "texture": "#disc" },
+				"east": { "uv": [ 2, 8, 3, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc9",
+			"from": [ 4, 7, 1 ],
+			"to": [ 5, 8, 3 ],
+			"faces": {
+				"down": { "uv": [ 4, 13, 5, 15 ], "texture": "#disc" },
+				"up": { "uv": [ 4, 1, 5, 3 ], "texture": "#disc" },
+				"north": { "uv": [ 11, 8, 12, 9 ], "texture": "#disc" },
+				"west": { "uv": [ 1, 8, 3, 9 ], "texture": "#disc" },
+				"east": { "uv": [ 13, 8, 15, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc10",
+			"from": [ 5, 7, 2 ],
+			"to": [ 6, 8, 3 ],
+			"faces": {
+				"down": { "uv": [ 5, 13, 6, 14 ], "texture": "#disc" },
+				"up": { "uv": [ 5, 2, 6, 3 ], "texture": "#disc" },
+				"north": { "uv": [ 10, 8, 11, 9 ], "texture": "#disc" },
+				"east": { "uv": [ 13, 8, 14, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc11",
+			"from": [ 5, 7, 4 ],
+			"to": [ 6, 8, 5 ],
+			"faces": {
+				"down": { "uv": [ 5, 11, 6, 12 ], "texture": "#disc" },
+				"up": { "uv": [ 5, 4, 6, 5 ], "texture": "#disc" },
+				"south": { "uv": [ 5, 8, 6, 9 ], "texture": "#disc" },
+				"west": { "uv": [ 4, 8, 5, 9 ], "texture": "#disc" },
+				"east": { "uv": [ 11, 8, 12, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc12",
+			"from": [ 5, 7, 9 ],
+			"to": [ 7, 8, 10 ],
+			"faces": {
+				"down": { "uv": [ 5, 6, 7, 7 ], "texture": "#disc" },
+				"up": { "uv": [ 5, 9, 7, 10 ], "texture": "#disc" },
+				"north": { "uv": [ 9, 8, 11, 9 ], "texture": "#disc" },
+				"south": { "uv": [ 5, 8, 7, 9 ], "texture": "#disc" },
+				"west": { "uv": [ 9, 8, 10, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc13",
+			"from": [ 5, 7, 13 ],
+			"to": [ 8, 8, 15 ],
+			"faces": {
+				"down": { "uv": [ 5, 1, 8, 3 ], "texture": "#disc" },
+				"up": { "uv": [ 5, 13, 8, 15 ], "texture": "#disc" },
+				"north": { "uv": [ 8, 8, 11, 9 ], "texture": "#disc" },
+				"south": { "uv": [ 5, 8, 8, 9 ], "texture": "#disc" },
+				"west": { "uv": [ 13, 8, 15, 9 ], "texture": "#disc" },
+				"east": { "uv": [ 1, 8, 3, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc14",
+			"from": [ 6, 7, 0 ],
+			"to": [ 10, 8, 1 ],
+			"faces": {
+				"down": { "uv": [ 6, 15, 10, 16 ], "texture": "#disc" },
+				"up": { "uv": [ 6, 0, 10, 1 ], "texture": "#disc" },
+				"north": { "uv": [ 6, 8, 10, 9 ], "texture": "#disc" },
+				"south": { "uv": [ 6, 8, 10, 9 ], "texture": "#disc" },
+				"west": { "uv": [ 0, 8, 1, 9 ], "texture": "#disc" },
+				"east": { "uv": [ 15, 8, 16, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc15",
+			"from": [ 6, 7, 1 ],
+			"to": [ 8, 8, 2 ],
+			"faces": {
+				"down": { "uv": [ 6, 14, 8, 15 ], "texture": "#disc" },
+				"up": { "uv": [ 6, 1, 8, 2 ], "texture": "#disc" },
+				"south": { "uv": [ 6, 8, 8, 9 ], "texture": "#disc" },
+				"west": { "uv": [ 1, 8, 2, 9 ], "texture": "#disc" },
+				"east": { "uv": [ 14, 8, 15, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc16",
+			"from": [ 6, 7, 5 ],
+			"to": [ 12, 8, 6 ],
+			"faces": {
+				"down": { "uv": [ 6, 10, 12, 11 ], "texture": "#disc" },
+				"up": { "uv": [ 6, 5, 12, 6 ], "texture": "#disc" },
+				"north": { "uv": [ 4, 8, 10, 9 ], "texture": "#disc" },
+				"south": { "uv": [ 6, 8, 12, 9 ], "texture": "#disc" },
+				"west": { "uv": [ 5, 8, 6, 9 ], "texture": "#disc" },
+				"east": { "uv": [ 10, 8, 11, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc17",
+			"from": [ 6, 7, 10 ],
+			"to": [ 8, 8, 13 ],
+			"faces": {
+				"down": { "uv": [ 6, 3, 8, 6 ], "texture": "#disc" },
+				"up": { "uv": [ 6, 10, 8, 13 ], "texture": "#disc" },
+				"north": { "uv": [ 8, 8, 10, 9 ], "texture": "#disc" },
+				"west": { "uv": [ 10, 8, 13, 9 ], "texture": "#disc" },
+				"east": { "uv": [ 3, 8, 6, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc18",
+			"from": [ 6, 7, 15 ],
+			"to": [ 9, 8, 16 ],
+			"faces": {
+				"down": { "uv": [ 6, 0, 9, 1 ], "texture": "#disc" },
+				"up": { "uv": [ 6, 15, 9, 16 ], "texture": "#disc" },
+				"north": { "uv": [ 7, 8, 10, 9 ], "texture": "#disc" },
+				"south": { "uv": [ 6, 8, 9, 9 ], "texture": "#disc" },
+				"west": { "uv": [ 15, 8, 16, 9 ], "texture": "#disc" },
+				"east": { "uv": [ 0, 8, 1, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc19",
+			"from": [ 7, 7, 2 ],
+			"to": [ 13, 8, 3 ],
+			"faces": {
+				"down": { "uv": [ 7, 13, 13, 14 ], "texture": "#disc" },
+				"up": { "uv": [ 7, 2, 13, 3 ], "texture": "#disc" },
+				"north": { "uv": [ 3, 8, 9, 9 ], "texture": "#disc" },
+				"south": { "uv": [ 7, 8, 13, 9 ], "texture": "#disc" },
+				"west": { "uv": [ 2, 8, 3, 9 ], "texture": "#disc" },
+				"east": { "uv": [ 13, 8, 14, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc20",
+			"from": [ 7, 7, 4 ],
+			"to": [ 11, 8, 5 ],
+			"faces": {
+				"down": { "uv": [ 7, 11, 11, 12 ], "texture": "#disc" },
+				"up": { "uv": [ 7, 4, 11, 5 ], "texture": "#disc" },
+				"north": { "uv": [ 5, 8, 9, 9 ], "texture": "#disc" },
+				"west": { "uv": [ 4, 8, 5, 9 ], "texture": "#disc" },
+				"east": { "uv": [ 11, 8, 12, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc21",
+			"from": [ 8, 7, 3 ],
+			"to": [ 14, 8, 4 ],
+			"faces": {
+				"down": { "uv": [ 8, 12, 14, 13 ], "texture": "#disc" },
+				"up": { "uv": [ 8, 3, 14, 4 ], "texture": "#disc" },
+				"north": { "uv": [ 2, 8, 8, 9 ], "texture": "#disc" },
+				"south": { "uv": [ 8, 8, 14, 9 ], "texture": "#disc" },
+				"west": { "uv": [ 3, 8, 4, 9 ], "texture": "#disc" },
+				"east": { "uv": [ 12, 8, 13, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc22",
+			"from": [ 8, 7, 11 ],
+			"to": [ 11, 8, 12 ],
+			"faces": {
+				"down": { "uv": [ 8, 4, 11, 5 ], "texture": "#disc" },
+				"up": { "uv": [ 8, 11, 11, 12 ], "texture": "#disc" },
+				"north": { "uv": [ 5, 8, 8, 9 ], "texture": "#disc" },
+				"south": { "uv": [ 8, 8, 11, 9 ], "texture": "#disc" },
+				"east": { "uv": [ 4, 8, 5, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc23",
+			"from": [ 8, 7, 12 ],
+			"to": [ 9, 8, 13 ],
+			"faces": {
+				"down": { "uv": [ 8, 3, 9, 4 ], "texture": "#disc" },
+				"up": { "uv": [ 8, 12, 9, 13 ], "texture": "#disc" },
+				"south": { "uv": [ 8, 8, 9, 9 ], "texture": "#disc" },
+				"east": { "uv": [ 3, 8, 4, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc24",
+			"from": [ 8, 7, 14 ],
+			"to": [ 9, 8, 15 ],
+			"faces": {
+				"down": { "uv": [ 8, 1, 9, 2 ], "texture": "#disc" },
+				"up": { "uv": [ 8, 14, 9, 15 ], "texture": "#disc" },
+				"north": { "uv": [ 7, 8, 8, 9 ], "texture": "#disc" },
+				"east": { "uv": [ 1, 8, 2, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc25",
+			"from": [ 9, 7, 1 ],
+			"to": [ 11, 8, 2 ],
+			"faces": {
+				"down": { "uv": [ 9, 14, 11, 15 ], "texture": "#disc" },
+				"up": { "uv": [ 9, 1, 11, 2 ], "texture": "#disc" },
+				"north": { "uv": [ 5, 8, 7, 9 ], "texture": "#disc" },
+				"west": { "uv": [ 1, 8, 2, 9 ], "texture": "#disc" },
+				"east": { "uv": [ 14, 8, 15, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc26",
+			"from": [ 9, 7, 6 ],
+			"to": [ 13, 8, 7 ],
+			"faces": {
+				"down": { "uv": [ 9, 9, 13, 10 ], "texture": "#disc" },
+				"up": { "uv": [ 9, 6, 13, 7 ], "texture": "#disc" },
+				"north": { "uv": [ 3, 8, 7, 9 ], "texture": "#disc" },
+				"south": { "uv": [ 9, 8, 13, 9 ], "texture": "#disc" },
+				"east": { "uv": [ 9, 8, 10, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc27",
+			"from": [ 9, 7, 9 ],
+			"to": [ 11, 8, 11 ],
+			"faces": {
+				"down": { "uv": [ 9, 5, 11, 7 ], "texture": "#disc" },
+				"up": { "uv": [ 9, 9, 11, 11 ], "texture": "#disc" },
+				"north": { "uv": [ 5, 8, 7, 9 ], "texture": "#disc" },
+				"west": { "uv": [ 9, 8, 11, 9 ], "texture": "#disc" },
+				"east": { "uv": [ 5, 8, 7, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc28",
+			"from": [ 10, 7, 7 ],
+			"to": [ 11, 8, 9 ],
+			"faces": {
+				"down": { "uv": [ 10, 7, 11, 9 ], "texture": "#disc" },
+				"up": { "uv": [ 10, 7, 11, 9 ], "texture": "#disc" },
+				"east": { "uv": [ 7, 8, 9, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc29",
+			"from": [ 10, 7, 12 ],
+			"to": [ 13, 8, 13 ],
+			"faces": {
+				"down": { "uv": [ 10, 3, 13, 4 ], "texture": "#disc" },
+				"up": { "uv": [ 10, 12, 13, 13 ], "texture": "#disc" },
+				"north": { "uv": [ 3, 8, 6, 9 ], "texture": "#disc" },
+				"south": { "uv": [ 10, 8, 13, 9 ], "texture": "#disc" },
+				"west": { "uv": [ 12, 8, 13, 9 ], "texture": "#disc" },
+				"east": { "uv": [ 3, 8, 4, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc30",
+			"from": [ 11, 7, 8 ],
+			"to": [ 16, 8, 9 ],
+			"faces": {
+				"down": { "uv": [ 11, 7, 16, 8 ], "texture": "#disc" },
+				"up": { "uv": [ 11, 8, 16, 9 ], "texture": "#disc" },
+				"north": { "uv": [ 0, 8, 5, 9 ], "texture": "#disc" },
+				"south": { "uv": [ 11, 8, 16, 9 ], "texture": "#disc" },
+				"east": { "uv": [ 7, 8, 8, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc31",
+			"from": [ 11, 7, 13 ],
+			"to": [ 13, 8, 14 ],
+			"faces": {
+				"down": { "uv": [ 11, 2, 13, 3 ], "texture": "#disc" },
+				"up": { "uv": [ 11, 13, 13, 14 ], "texture": "#disc" },
+				"south": { "uv": [ 11, 8, 13, 9 ], "texture": "#disc" },
+				"west": { "uv": [ 13, 8, 14, 9 ], "texture": "#disc" },
+				"east": { "uv": [ 2, 8, 3, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc32",
+			"from": [ 11, 7, 14 ],
+			"to": [ 12, 8, 15 ],
+			"faces": {
+				"down": { "uv": [ 11, 1, 12, 2 ], "texture": "#disc" },
+				"up": { "uv": [ 11, 14, 12, 15 ], "texture": "#disc" },
+				"south": { "uv": [ 11, 8, 12, 9 ], "texture": "#disc" },
+				"west": { "uv": [ 14, 8, 15, 9 ], "texture": "#disc" },
+				"east": { "uv": [ 1, 8, 2, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc33",
+			"from": [ 12, 7, 4 ],
+			"to": [ 15, 8, 5 ],
+			"faces": {
+				"down": { "uv": [ 12, 11, 15, 12 ], "texture": "#disc" },
+				"up": { "uv": [ 12, 4, 15, 5 ], "texture": "#disc" },
+				"north": { "uv": [ 1, 8, 4, 9 ], "texture": "#disc" },
+				"south": { "uv": [ 12, 8, 15, 9 ], "texture": "#disc" },
+				"west": { "uv": [ 4, 8, 5, 9 ], "texture": "#disc" },
+				"east": { "uv": [ 11, 8, 12, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc34",
+			"from": [ 12, 7, 9 ],
+			"to": [ 15, 8, 10 ],
+			"faces": {
+				"down": { "uv": [ 12, 6, 15, 7 ], "texture": "#disc" },
+				"up": { "uv": [ 12, 9, 15, 10 ], "texture": "#disc" },
+				"south": { "uv": [ 12, 8, 15, 9 ], "texture": "#disc" },
+				"west": { "uv": [ 9, 8, 10, 9 ], "texture": "#disc" },
+				"east": { "uv": [ 6, 8, 7, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc35",
+			"from": [ 13, 7, 5 ],
+			"to": [ 15, 8, 6 ],
+			"faces": {
+				"down": { "uv": [ 13, 10, 15, 11 ], "texture": "#disc" },
+				"up": { "uv": [ 13, 5, 15, 6 ], "texture": "#disc" },
+				"south": { "uv": [ 13, 8, 15, 9 ], "texture": "#disc" },
+				"west": { "uv": [ 5, 8, 6, 9 ], "texture": "#disc" },
+				"east": { "uv": [ 10, 8, 11, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc36",
+			"from": [ 13, 7, 10 ],
+			"to": [ 15, 8, 11 ],
+			"faces": {
+				"down": { "uv": [ 13, 5, 15, 6 ], "texture": "#disc" },
+				"up": { "uv": [ 13, 10, 15, 11 ], "texture": "#disc" },
+				"south": { "uv": [ 13, 8, 15, 9 ], "texture": "#disc" },
+				"west": { "uv": [ 10, 8, 11, 9 ], "texture": "#disc" },
+				"east": { "uv": [ 5, 8, 6, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc37",
+			"from": [ 14, 7, 7 ],
+			"to": [ 16, 8, 8 ],
+			"faces": {
+				"down": { "uv": [ 14, 8, 16, 9 ], "texture": "#disc" },
+				"up": { "uv": [ 14, 7, 16, 8 ], "texture": "#disc" },
+				"north": { "uv": [ 0, 8, 2, 9 ], "texture": "#disc" },
+				"west": { "uv": [ 7, 8, 8, 9 ], "texture": "#disc" },
+				"east": { "uv": [ 8, 8, 9, 9 ], "texture": "#disc" }
+			}
+		},
+		{
+			"__comment": "music_disc38",
+			"from": [ 14, 7, 11 ],
+			"to": [ 15, 8, 12 ],
+			"faces": {
+				"down": { "uv": [ 14, 4, 15, 5 ], "texture": "#disc" },
+				"up": { "uv": [ 14, 11, 15, 12 ], "texture": "#disc" },
+				"south": { "uv": [ 14, 8, 15, 9 ], "texture": "#disc" },
+				"west": { "uv": [ 11, 8, 12, 9 ], "texture": "#disc" },
+				"east": { "uv": [ 4, 8, 5, 9 ], "texture": "#disc" }
+			}
+		}
+	]
+}

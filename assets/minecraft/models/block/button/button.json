@@ -1,0 +1,83 @@
+{
+	"__comment": "Designed by CreatorLabs with Cubik Studio - https://cubik.studio - Download 3D CreatorCraft at https://www.planetminecraft.com/texture_pack/3d-creatorcraft/",
+	"textures": {
+		"particle": "#light",
+		"dark": "#dark",
+		"light": "#light"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Element",
+			"from": [ 4.5, 0, 5.5 ],
+			"to": [ 11.5, 0.8, 10.5 ],
+			"faces": {
+				"down": { "uv": [ 4.5, 5.5, 11.5, 10.5 ], "texture": "#dark", "cullface": "down" },
+				"up": { "uv": [ 4.5, 5.5, 11.5, 10.5 ], "texture": "#dark" },
+				"north": { "uv": [ 4.5, 15.2, 11.5, 16 ], "texture": "#dark" },
+				"south": { "uv": [ 4.5, 15.2, 11.5, 16 ], "texture": "#dark" },
+				"west": { "uv": [ 5.5, 15.2, 10.5, 16 ], "texture": "#dark" },
+				"east": { "uv": [ 5.5, 15.2, 10.5, 16 ], "texture": "#dark" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 5.5, 0, 10.5 ],
+			"to": [ 10.5, 0.8, 11.5 ],
+			"faces": {
+				"down": { "uv": [ 5.5, 4.5, 10.5, 5.5 ], "texture": "#dark", "cullface": "down" },
+				"up": { "uv": [ 5.5, 10.5, 10.5, 11.5 ], "texture": "#dark" },
+				"south": { "uv": [ 5.5, 15.2, 10.5, 16 ], "texture": "#dark" },
+				"west": { "uv": [ 10.5, 15.2, 11.5, 16 ], "texture": "#dark" },
+				"east": { "uv": [ 4.5, 15.2, 5.5, 16 ], "texture": "#dark" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 11.5, 0, 6.5 ],
+			"to": [ 12.5, 0.8, 9.5 ],
+			"faces": {
+				"down": { "uv": [ 11.5, 6.5, 12.5, 9.5 ], "texture": "#dark", "cullface": "down" },
+				"up": { "uv": [ 11.5, 6.5, 12.5, 9.5 ], "texture": "#dark" },
+				"north": { "uv": [ 3.5, 15.2, 4.5, 16 ], "texture": "#dark" },
+				"south": { "uv": [ 11.5, 15.2, 12.5, 16 ], "texture": "#dark" },
+				"east": { "uv": [ 6.5, 15.2, 9.5, 16 ], "texture": "#dark" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 5, 0.8, 6 ],
+			"to": [ 11, 1.8, 10 ],
+			"faces": {
+				"up": { "uv": [ 5, 6, 11, 10 ], "texture": "#light" },
+				"north": { "uv": [ 5, 14.2, 11, 15.2 ], "texture": "#light" },
+				"south": { "uv": [ 5, 14.2, 11, 15.2 ], "texture": "#light" },
+				"west": { "uv": [ 6, 14.2, 10, 15.2 ], "texture": "#light" },
+				"east": { "uv": [ 6, 14.2, 10, 15.2 ], "texture": "#light" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 5.5, 0, 4.5 ],
+			"to": [ 10.5, 0.8, 5.5 ],
+			"faces": {
+				"down": { "uv": [ 5.5, 10.5, 10.5, 11.5 ], "texture": "#dark", "cullface": "down" },
+				"up": { "uv": [ 5.5, 4.5, 10.5, 5.5 ], "texture": "#dark" },
+				"north": { "uv": [ 5.5, 15.2, 10.5, 16 ], "texture": "#dark" },
+				"west": { "uv": [ 4.5, 15.2, 5.5, 16 ], "texture": "#dark" },
+				"east": { "uv": [ 10.5, 15.2, 11.5, 16 ], "texture": "#dark" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 3.5, 0, 6.5 ],
+			"to": [ 4.5, 0.8, 9.5 ],
+			"faces": {
+				"down": { "uv": [ 3.5, 6.5, 4.5, 9.5 ], "texture": "#dark", "cullface": "down" },
+				"up": { "uv": [ 3.5, 6.5, 4.5, 9.5 ], "texture": "#dark" },
+				"north": { "uv": [ 11.5, 15.2, 12.5, 16 ], "texture": "#dark" },
+				"south": { "uv": [ 3.5, 15.2, 4.5, 16 ], "texture": "#dark" },
+				"west": { "uv": [ 6.5, 15.2, 9.5, 16 ], "texture": "#dark" }
+			}
+		}
+	]
+}

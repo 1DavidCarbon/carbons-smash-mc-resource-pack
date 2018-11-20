@@ -1,0 +1,8 @@
+{
+	"__comment": "Designed by CreatorLabs with Cubik Studio - https://cubik.studio - Download 3D CreatorCraft at https://www.planetminecraft.com/texture_pack/3d-creatorcraft/",
+	"parent": "item/parents/boats",
+	"textures": {
+		"light": "creatorlabs/planks/dark_oak/planks_dark_oak_light",
+		"dark": "creatorlabs/planks/dark_oak/planks_dark_oak_dark"
+	}
+}

@@ -1,0 +1,8 @@
+{
+"__comment": "Designed by CreatorLabs with Cubik Studio - https://cubik.studio - Download 3D CreatorCraft at https://www.planetminecraft.com/texture_pack/3d-creatorcraft/",
+    "parent": "block/button/button",
+    "textures": {
+        "light": "creatorlabs/planks/acacia/planks_acacia_light",
+		"dark": "creatorlabs/planks/acacia/planks_acacia_dark"
+    }
+}

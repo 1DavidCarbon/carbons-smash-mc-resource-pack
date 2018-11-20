@@ -1,0 +1,21 @@
+{
+"__comment": "Designed by CreatorLabs with Cubik Studio - https://cubik.studio - Download 3D CreatorCraft at https://www.planetminecraft.com/texture_pack/3d-creatorcraft/",
+    "variants": {
+        "facing=south,mode=compare,powered=false": { "model": "block/stone_slab_blocks/comparator/off/comparator" },
+        "facing=west,mode=compare,powered=false": { "model": "block/stone_slab_blocks/comparator/off/comparator", "y": 90 },
+        "facing=north,mode=compare,powered=false": { "model": "block/stone_slab_blocks/comparator/off/comparator", "y": 180 },
+        "facing=east,mode=compare,powered=false": { "model": "block/stone_slab_blocks/comparator/off/comparator", "y": 270 },
+        "facing=south,mode=subtract,powered=false": { "model": "block/stone_slab_blocks/comparator/off_subtract/comparator" },
+        "facing=west,mode=subtract,powered=false": { "model": "block/stone_slab_blocks/comparator/off_subtract/comparator", "y": 90 },
+        "facing=north,mode=subtract,powered=false": { "model": "block/stone_slab_blocks/comparator/off_subtract/comparator", "y": 180 },
+        "facing=east,mode=subtract,powered=false": { "model": "block/stone_slab_blocks/comparator/off_subtract/comparator", "y": 270 },
+        "facing=south,mode=compare,powered=true": { "model": "block/stone_slab_blocks/comparator/on/comparator" },
+        "facing=west,mode=compare,powered=true": { "model": "block/stone_slab_blocks/comparator/on/comparator", "y": 90 },
+        "facing=north,mode=compare,powered=true": { "model": "block/stone_slab_blocks/comparator/on/comparator", "y": 180 },
+        "facing=east,mode=compare,powered=true": { "model": "block/stone_slab_blocks/comparator/on/comparator", "y": 270 },
+        "facing=south,mode=subtract,powered=true": { "model": "block/stone_slab_blocks/comparator/on_subtract/comparator" },
+        "facing=west,mode=subtract,powered=true": { "model": "block/stone_slab_blocks/comparator/on_subtract/comparator", "y": 90 },
+        "facing=north,mode=subtract,powered=true": { "model": "block/stone_slab_blocks/comparator/on_subtract/comparator", "y": 180 },
+        "facing=east,mode=subtract,powered=true": { "model": "block/stone_slab_blocks/comparator/on_subtract/comparator", "y": 270 }
+    }
+}

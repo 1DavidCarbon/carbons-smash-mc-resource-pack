@@ -1,0 +1,8 @@
+{
+	"__comment": "Designed by CreatorLabs with Cubik Studio - https://cubik.studio - Download 3D CreatorCraft at https://www.planetminecraft.com/texture_pack/3d-creatorcraft/",
+	"parent": "item/parents/books",
+	"textures": {
+		"outer_dark": "creatorlabs/books/knowledge/dark",
+		"outer_light": "creatorlabs/books/knowledge/light"
+	}
+}

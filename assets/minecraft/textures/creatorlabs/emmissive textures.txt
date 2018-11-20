@@ -1,0 +1,11 @@
+List:
+- furnace_lit
+- torch
+- observer
+- redstone_lamp
+- redstone_torch
+- redstone_block
+- redstone
+- activator_rail
+- Power_rail
+- ores

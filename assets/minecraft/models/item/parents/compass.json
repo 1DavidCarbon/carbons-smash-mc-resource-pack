@@ -1,0 +1,44 @@
+{
+	"__comment": "Designed by CreatorLabs with Cubik Studio - https://cubik.studio - Download 3D CreatorCraft at https://www.planetminecraft.com/texture_pack/3d-creatorcraft/",
+	"textures": {
+		"particle": "creatorlabs/black_iron_blocks/black_iron",
+		"dark": "creatorlabs/black_iron_blocks/black_iron",
+		"red": "creatorlabs/compass/red",
+		"iron": "creatorlabs/iron/iron_dark"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 90, 0, 0 ],
+			"translation":  [ 0, 0.6, 1 ],
+			"scale":  [ 0.41, 0.41, 0.41 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ 90, 0, 0 ],
+			"translation":  [ 0, 0.6, 1 ],
+			"scale":  [ 0.41, 0.41, 0.41 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 15, 0, 10 ],
+			"translation":  [ 0, 3, 1.5 ],
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		},
+		"firstperson_lefthand": {
+			"rotation":  [ 15, 0, 10 ],
+			"translation":  [ 0, 3, 1.5 ],
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		},
+		"gui": {
+			"rotation":  [ 45, 0, 15 ],
+			"translation":  [ 0, 0.5, 0 ]
+		},
+		"ground": {
+			"translation":  [ 0, 2, 0 ],
+			"scale":  [ 0.35, 0.35, 0.35 ]
+		},
+		"fixed": {
+			"rotation":  [ -90, 0, 0 ],
+			"translation":  [ 0, 0, -0.2 ],
+			"scale":  [ 0.8, 0.8, 0.8 ]
+		}
+	}
+}

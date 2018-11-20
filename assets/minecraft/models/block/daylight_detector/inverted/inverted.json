@@ -1,0 +1,7 @@
+{
+	"__comment": "Designed by CreatorLabs with Cubik Studio - https://cubik.studio - Download 3D CreatorCraft at https://www.planetminecraft.com/texture_pack/3d-creatorcraft/",
+	"parent": "block/daylight_detector/daylight_detector",
+	"textures": {
+		"light_light": "creatorlabs/daylight_detector/light_inverted"
+	}
+	}
