@@ -1,5 +1,5 @@
 # Carbon Reborn [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg?branch=master)](https://github.com/1DavidCarbon/carbons-smash-mc-resource-pack/releases)
-After Carbon Crew Productions Project Team On MC Texture Pack had moved away, I will create a follow up version.
+After Carbon Crew Productions Project Team On MC Texture Pack had moved away to other projects, I will create a follow up version to its successor.
 https://kutt.it/carbon-reborn-mc
 
 
